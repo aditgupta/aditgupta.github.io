@@ -195,8 +195,6 @@
 
 				});
 
-            $('.image:after').css('display','none');
-
 	});
 
 })(jQuery);
