@@ -19,11 +19,10 @@
 	}
 
   p img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width:50%;
-    border:2px solid whitesmoke;
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    border:2px solid whitesmoke !important;
   }
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
