@@ -1065,6 +1065,14 @@ p {
   font-family: Georgia !important;
 }
 
+ol li {
+  font-family: Georgia !important;
+}
+
+ol ul {
+  font-family: Georgia !important;
+}
+
 .content p{
   font-family: 'Source Sans Pro', Helvetica, sans-serif;
 }
