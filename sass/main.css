@@ -1061,7 +1061,13 @@ em, i {
   font-style: italic; }
 
 p {
-  margin: 0 0 2em 0; }
+  margin: 0 0 2em 0;
+  font-family: Georgia !important;
+}
+
+.content p{
+  font-family: 'Source Sans Pro', helvetica, sans-serif;
+}
 
 h1 {
   font-size: 2.75em;
