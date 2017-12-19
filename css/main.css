@@ -18,12 +18,6 @@
 		vertical-align: baseline;
 	}
 
-  p img {
-    display: block !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    border:2px solid whitesmoke !important;
-  }
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
