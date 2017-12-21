@@ -1074,7 +1074,7 @@ ol li {
 }
 
 .content p{
-  font-family: 'Source Sans Pro', Helvetica, sans-serif;
+  font-family: 'Source Sans Pro', Helvetica, sans-serif !important;
 }
 
 h1 {
