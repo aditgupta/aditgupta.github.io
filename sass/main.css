@@ -1065,11 +1065,11 @@ p {
   font-family: Georgia !important;
 }
 
-ol li {
+ul li {
   font-family: Georgia !important;
 }
 
-ol ul {
+ol li {
   font-family: Georgia !important;
 }
 
