@@ -1887,7 +1887,9 @@ ol {
   margin: 0 0 2em 0;
   padding-left: 1.25em; }
   ol li {
-    padding-left: 0.25em; }
+    padding-left: 0.25em;
+    font-family: Georgia, serif;
+   }
 
 ul {
   list-style: disc;
